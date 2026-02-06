@@ -48,3 +48,11 @@ docker-compose up -d --build
 - Non-root user execution inside containers (recommended for prod).
 - Resource throttling to prevent noisy neighbor issues.
 - Secure Nginx headers (HSTS, CSP, X-Frame-Options).
+
+## 👤 Author
+**Md. Iqbal Haider Khan**
+- GitHub: [@ihkokil](https://github.com/ihkokil)
+- Email: ihkokil@gmail.com
+
+---
+*This repository is maintained for production-grade deployment demonstrations.*
